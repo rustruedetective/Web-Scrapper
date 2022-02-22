@@ -1,0 +1,66 @@
+1. Type 1
+Canada | English https://www.msccruises.ca 
+Turkey | Türkiye https://www.msccruises.com.tr 
+Brazil | Português https://www.msccruzeiros.com.br 
+Finland | English https://www.msccruises.fi/ 
+Germany | Deutsch https://www.msccruises.de/ 
+Netherlands | Nederlands https://www.msccruises.nl/ 
+Norway | Norsk https://www.msccruises.no/ 
+Sweden | Svenska https://www.msccruises.se/ 
+USA | English https://www.msccruisesusa.com/ 
+Belgium | Vlaams https://www.msccruises.be/ 
+Luxembourg | Français https://www.msccroisieres.be/fr-be/Homepage.aspx 
+United Kingdom | English https://www.msccruises.co.uk/ 
+Puerto Rico | English https://www.msccruisesusa.com/en-us/Homepage.aspx?select=PuertoRico
+South Africa | English https://www.msccruises.co.za 
+Switzerland | Français https://www.msccroisieres.ch/ 
+Switzerland | Deutsch https://www.msckreuzfahrten.ch/ 
+France | Français https://www.msccroisieres.fr/ 
+Italy | Italiano https://www.msccrociere.it/ 
+
+
+2. Type 3 White
+Mexico | Español https://www.msccruceros.com.mx 
+Ireland | English https://www.msccruises.ie 
+Israel | English https://www.msccruises.co.il/he-il/Homepage.aspx 
+
+3. Type 3 White 2
+Croatia | Hrvatski https://www.msckrstarenja.com/ 
+Bosnia & Herzegovina | Hrvatski https://www.msckrstarenja.com/ 
+FYR of Macedonia | Hrvatski https://www.msckrstarenja.com/ 
+Montenegro | Srpski https://www.msckrstarenja.com/ 
+Slovenia | Hrvatski https://www.msckrstarenja.com/ 
+Serbia | Srpski https://www.msckrstarenja.com/ 
+Portugal | Português https://www.msccruzeiros.pt/ 
+Denmark | Dansk https://www.msccruises.dk/ 
+
+
+4. Type 3 Orange
+Bulgaria | English https://www.msccruises.com/en-gl/Homepage.aspx?select=Bulgaria 
+Cyprus | English https://www.msccruises.com/en-gl/Homepage.aspx?select=Cyprus 
+Czech Republic | English https://www.msccruises.com/en-gl/Homepage.aspx?select=Czech 
+Tunisia | English https://www.msccruises.com/en-gl/Homepage.aspx?select=Tunisia 
+United Arab Emirates | English https://www.msccruises.com/en-gl/Homepage.aspx?select=Emirates 
+Estonia | English https://www.msccruises.com/en-gl/Homepage.aspx?select=Estonia 
+Greece | English https://www.msccruises.com/en-gl/Homepage.aspx?select=Greece 
+Hungary | English https://www.msccruises.com/en-gl/Homepage.aspx?select=Hungary 
+Latvia | English https://www.msccruises.com/en-gl/Homepage.aspx?select=Latvia 
+Lithuania | English https://www.msccruises.com/en-gl/Homepage.aspx?select=Lithuania 
+Poland | English https://www.msccruises.com/en-gl/Homepage.aspx?select=Poland 
+Romania | English https://www.msccruises.com/en-gl/Homepage.aspx?select=Romania 
+Russian Federation | English https://www.msccruises.com/en-gl/Homepage.aspx?select=Russian-Federation 
+Egypt | English https://www.msccruises.com/en-gl/Homepage.aspx?select=Egypt 
+Ukraine | English https://www.msccruises.com/en-gl/Homepage.aspx?select=Ukraina 
+Slovakia | English https://www.msccruises.com/en-gl/Homepage.aspx?select=Slovakia 
+
+
+5. Type 2 (bad site)
+Australia | English https://www.msccruises.com.au/ 
+New Zealand | English http://www.msccruises.co.nz/
+Bolivia | Español https://www.msccruceros.cl/ 
+Argentina | Español https://www.msccruceros.com.ar/ 
+Spain | Español https://www.msccruceros.es/
+
+
+6. Blocked by add Type
+Austria | Deutsch https://www.msckreuzfahrten.at/ 

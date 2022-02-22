@@ -1,0 +1,17 @@
+This is how the program works:
+
+
+UPDATE FILE:
+It merely updates the files for all the urls of different websites it can find on the homepage.
+
+
+SCRAP FILE:
+All the html file in the Files/scrap directory are scraped.
+
+
+VIEWS FILE:
+This shows the results stored in the database.
+
+
+CLEAR FILE:
+This deletes the database.

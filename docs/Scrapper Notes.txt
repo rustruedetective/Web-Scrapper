@@ -1,0 +1,36 @@
+Here are the reference links:-
+
+1. Pages as reference:-
+https://awd.ru/cruise/msc.html
+https://awd.ru/cruise/msc.html?date=2021-12-01
+
+2. Website to Scrap:-
+http://m.msccruises.com/en-gl/Mobile/Select-Your-Country.aspx
+
+
+
+
+
+
+
+
+
+____________________________________________________________________________________________________________
+Here are the identified types of divs to scrap so far:-
+
+1. Button Press tags:-
+----------------------------------
+<div class="search__button" automation-id="search-button"><!----><button>Search</button></div>
+----------------------------------
+<div class="qs_search searchParameter"></div>
+----------------------------------
+<a id="mainContent_fycHomepage_btnSearch" class="FycHorizonSearchButton" href="javascript:__doPostBack('ctl00$mainContent$fycHomepage$btnSearch','')">
+
+
+2. Divs containing data:-
+----------------------------------
+<div class="itinerary-card tile tile--result-search" itinerarydescription="[object Object]"><div class="itinerary-card__wrapper">
+----------------------------------
+<div ng-repeat="(countMap,catGroupElement) in definitiveResultList" class="ng-scope">
+----------------------------------
+<div class="divItinTitle">
